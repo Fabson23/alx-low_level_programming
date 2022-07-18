@@ -1,1 +1,1 @@
-readme file for 07 piinters
+readme file for pointers
